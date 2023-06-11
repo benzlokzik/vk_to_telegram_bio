@@ -11,9 +11,6 @@ api_hash = bd.api_hash
 default_status = bd.status
 current_playing = ''
 
-def show_author():
-    print("=== Broadcasting music from VK to bio Telegram by Prodovalec ===")
-
 def get_track_from_vk():
     vk_session = vk_api.VkApi(token=bd.vk_access_token)
     vk = vk_session.get_api()
