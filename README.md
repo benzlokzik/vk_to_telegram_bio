@@ -3,7 +3,7 @@
 # Настройка:
 1. Установите репозиторий
 2. Откройте терминал в папке с репозиторием и установи зависимости 'pip install -r requirements.txt'
-3. Измените api_id; api_hash; vk_access_token; vk_user_id в файле **bd.py**
+3. Измените api_id; api_hash; vk_access_token; vk_user_id в файле **bd.py** (параметр status не изменяйте)
 
     3.1 Инструция по получению api_id; api_hash:
 
