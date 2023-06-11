@@ -1,0 +1,5 @@
+api_id = "YOUR_VK_ACCESS_TOKEN"
+api_hash = "YOUR_TG_API_HASH"
+status = ""
+vk_access_token = "YOUR_VK_ACCESS_TOKEN"
+vk_user_id = "YOUR_VK_USER_ID"
